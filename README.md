@@ -10,12 +10,6 @@ This project demonstrates:
 
 ---
 
-## 🚀 Live Notebook (nbviewer)
-🔗 View beautifully on nbviewer:  
-**(Add link here after we generate it)**
-
----
-
 ## 🧩 Tech Stack & Libraries Used
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
