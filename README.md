@@ -45,7 +45,7 @@ Format: `.csv`
 ---
 
 ## 📉 Regression Line Plot
-![Regression Line](regression_line.png)
+![Regression Line](prediction.PNG)
 
 ---
 
