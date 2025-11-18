@@ -40,7 +40,7 @@ Format: `.csv`
 ---
 
 ## 📈 Scatter Plot
-![Scatter Plot](scatter_plot.png)
+![Scatter Plot]([scatter_plot.png](https://github.com/Priyanka-Talari/house-price-prediction-linear-regression/blob/main/analysis.PNG?raw=true))
 
 ---
 
