@@ -45,7 +45,7 @@ Format: `.csv`
 
 ## 🧠 Machine Learning Model
 
-We used **Linear Regression** from Scikit-Learn.
+Used **Linear Regression** from Scikit-Learn.
 
 ```python
 from sklearn.linear_model import LinearRegression
