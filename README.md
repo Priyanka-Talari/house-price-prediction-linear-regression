@@ -23,8 +23,7 @@ This project demonstrates:
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![NumPy](https://img.shields.io/badge/NumPy-Math%20Library-blueviolet)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML%20Model-yellow)
-![License: MIT](https://img.shields.io/badge/License-MIT-purple)
-![Made with ❤️ by Priyanka](https://img.shields.io/badge/Made%20With-%E2%9D%A4%EF%B8%8F%20By%20Priyanka-pink)
+
 
 ---
 
